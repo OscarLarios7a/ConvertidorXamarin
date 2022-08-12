@@ -1,0 +1,17 @@
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\bin\Debug\netstandard2.0\App2.deps.json
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\bin\Debug\netstandard2.0\App2.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\bin\Debug\netstandard2.0\App2.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\App2.csproj.AssemblyReference.cache
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfoInputs.cache
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfo.cs
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\App2.csproj.CoreCompileInputs.cache
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\App2.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\refint\App2.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\App2.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\ref\App2.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\Vistas\MenuPrincipal.xaml.g.cs
+D:\AT_OAXACA\Documentos\Visual Studio 2022\Projects\App2\App2\obj\Debug\netstandard2.0\Vistas\Convertir.xaml.g.cs

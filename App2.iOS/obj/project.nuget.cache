@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "V6HYxGhitWXIK3vdhCvP8wQ+lhmdzoQgg2Jz2Opeigs/P8jy79iJVd+DTdhLOeLXy++PrRXx18SNY0P0PBbZEw==",
+  "success": true,
+  "projectFilePath": "D:\\AT_OAXACA\\Documentos\\Visual Studio 2022\\Projects\\App2\\App2.iOS\\App2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AT_OAXACA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\AT_OAXACA\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\AT_OAXACA\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\AT_OAXACA\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.2515\\xamarin.forms.visual.material.5.0.0.2515.nupkg.sha512",
+    "C:\\Users\\AT_OAXACA\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
